@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
