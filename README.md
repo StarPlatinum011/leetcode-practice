@@ -78,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,9 +96,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/StarPlatinum011/leetcode-practice/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
